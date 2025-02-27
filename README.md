@@ -1,2 +1,2 @@
-# TSEC_Assignment
-Quiz App
+# Quiz App
+TSEC Web Development Project 1
